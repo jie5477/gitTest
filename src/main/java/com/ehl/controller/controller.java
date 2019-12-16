@@ -5,4 +5,7 @@ package com.ehl.controller;
  * @create 2019-12-15 18:10
  */
 public class controller {
+    public static void main(String[] args) {
+        System.out.println("test __________");
+    }
 }
